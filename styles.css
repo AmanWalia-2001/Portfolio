@@ -286,6 +286,7 @@ footer {
 @media (max-width: 480px) {
   .hero {
     height: 40vh;
+    gap: 20px;
   }
 
   .hero h1 {
