@@ -148,29 +148,6 @@ section p {
   margin-bottom: 10px;
 }
 
-#contact form {
-  margin-top: 20px;
-}
-
-#contact input, #contact textarea {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 20px;
-  border: 1px solid #ddd;
-}
-
-#contact button[type="submit"] {
-  background-color: #337ab7;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  font-size: 18px;
-  cursor: pointer;
-}
-
-#contact button[type="submit"]:hover {
-  background-color: #23527c;
-}
 
 /* Footer Styles */
 
